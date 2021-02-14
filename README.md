@@ -1,2 +1,2 @@
-# lovecoin
+# lovecoint
 Created with CodeSandbox
